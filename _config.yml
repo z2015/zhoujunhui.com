@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Welcome to ZhouJunHui's Blog
+title: ZhouJunHui's Blog
 subtitle: ''
-description: ''
+description: 'Welcome to ZhouJunHui's Blog'
 keywords:
 author: William Zhou
 language: zh-cn
@@ -13,7 +13,7 @@ timezone: 'UTC+8'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhoujunhui.com
+url: https://zhoujunhui.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
