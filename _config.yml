@@ -5,11 +5,11 @@
 # Site
 title: ZhouJunHui's Blog
 subtitle: ''
-description: 'Welcome to ZhouJunHui's Blog'
+description: Welcome to ZhouJunHui's Blog
 keywords:
 author: William Zhou
 language: zh-cn
-timezone: 'UTC+8'
+timezone: UTC+8
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
