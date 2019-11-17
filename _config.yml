@@ -8,7 +8,7 @@ subtitle: ''
 description: Welcome to ZhouJunHui's Blog
 keywords:
 author: William Zhou
-language: zh-cn
+language: zh-CN
 timezone: UTC+8
 
 # URL
@@ -90,7 +90,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
